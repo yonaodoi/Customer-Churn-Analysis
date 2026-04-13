@@ -10,8 +10,22 @@ Tools Used
   •	SQL for cleaning and preparing the data 
   •	Power BI  for building the dashboard and visuals 
 
-Dashboard Preview
- • View dashboard image here:sql-scripts/yourfile.sql
+What I Looked At
+I focused on key areas to understand customer churn:
+•	Overall churn rate 
+•	Age groups (0–30, 31–60, 60+) 
+•	Credit score levels (low, medium, high) 
+•	Account balance groups (low, medium, high) 
+•	Customer tenure (new vs long-term customers) 
+These helped me identify which customers are more likely to leave.
+
+What This Project Shows
+This project shows how data can be used to:
+•	Understand customer behavior 
+•	Find risk groups 
+•	Support better business decisions 
+
+
 
 
  
