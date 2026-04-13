@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-I analyzed customer churn using SQL and Power BI to understand why customers leave. I identified high-risk groups by age, credit score, balance, and tenure, and provided insights and recommendations to improve retention, onboarding, and customer support.
+I analyzed customer churn data using SQL and Power BI to understand why customers leave. I identified high-risk groups by age, credit score, balance, and tenure, and provided insights and recommendations to improve retention, onboarding, and customer support.
 
 Project Overview;
 This project looks at customer churn to understand how many customers are leaving, why they are leaving, and which groups are most affected.
