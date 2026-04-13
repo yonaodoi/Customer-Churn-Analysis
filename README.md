@@ -12,18 +12,18 @@ Tools Used;
 
 What I Looked At;
 I focused on key areas to understand customer churn:
-•	Overall churn rate 
-•	Age groups (0–30, 31–60, 60+) 
-•	Credit score levels (low, medium, high) 
-•	Account balance groups (low, medium, high) 
-•	Customer tenure (new vs long-term customers) 
+1.Overall churn rate 
+2.Age groups (0–30, 31–60, 60+) 
+3.Credit score levels (low, medium, high) 
+4.Account balance groups (low, medium, high) 
+6.Customer tenure (new vs long-term customers). 
 These helped me identify which customers are more likely to leave.
 
 What This Project Shows;
 This project shows how data can be used to:
-•	Understand customer behavior 
-•	Find risk groups 
-•	Support better business decisions 
+1.Understand customer behavior 
+2.Find risk groups 
+3.Support better business decisions 
 
 
 
