@@ -11,7 +11,7 @@ Tools Used
   •	Power BI  for building the dashboard and visuals 
 
 Dashboard Preview
- • View dashboard image here:Dashboard .png
+ • View dashboard image here:sql-scripts/yourfile.sql
 
 
  
